@@ -58,4 +58,4 @@ $ yarn start
 Go to http://localhost:3000/ to see the result.
 
 
-Desenvolvido com 💜 por Lucas Ribeiro
+Desenvolvido por Lucas Ribeiro 💜
